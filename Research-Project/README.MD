@@ -1,1 +1,3 @@
-Explanation
+Abstract:
+<br>
+This paper investigates the factors that contribute to winning in professional tennis. Using a data set with Association of Tennis Professional Matches from 2000, we conduct various tests. Firstly, we conduct a chi-square test with permutation to identify if the likelihood of an underdog win is independent of court surface. Then, we conduct a difference in means test to identify if the duration of a match is independent of court surface. Finally, we create a model to predict match duration in minutes with features such as court surface, winner rank, loser rank, winner ace, and loser ace. 
